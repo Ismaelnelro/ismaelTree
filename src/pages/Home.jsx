@@ -32,7 +32,7 @@ export function Home() {
           <img src={avatar} alt="" />
         </div>
         <div className='name'>
-          <p>@ismaeltech</p>
+          <p>@ismaeltechs</p>
         </div>
         <div className='cards'>
           {
