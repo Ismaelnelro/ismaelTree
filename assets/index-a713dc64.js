@@ -95,7 +95,7 @@ Error generating stack: `+i.message+`
     transform: translate(-0.05em, -0.05em);
     box-shadow: 0.25em 0.15em;
   }
-`,dm=[{icon:sh,linkname:"GITHUB",path:"https://github.com/Ismaelnelro"},{icon:ch,linkname:"LINKDIN",path:""},{icon:ah,linkname:"WEB",path:""}];function pm(){return oe.jsx(hm,{children:oe.jsxs("div",{className:"container",children:[oe.jsx("div",{className:"imagen",children:oe.jsx("img",{src:uh,alt:""})}),oe.jsx("div",{className:"name",children:oe.jsx("p",{children:"@ismaeltech"})}),oe.jsx("div",{className:"cards",children:dm.map((e,t)=>oe.jsx(cm,{inf:e},t))}),oe.jsx("div",{className:"powerby",children:"BY Ismael Rosas"})]})})}const hm=Of.div`
+`,dm=[{icon:sh,linkname:"GITHUB",path:"https://github.com/Ismaelnelro"},{icon:ch,linkname:"LINKDIN",path:""},{icon:ah,linkname:"WEB",path:""}];function pm(){return oe.jsx(hm,{children:oe.jsxs("div",{className:"container",children:[oe.jsx("div",{className:"imagen",children:oe.jsx("img",{src:uh,alt:""})}),oe.jsx("div",{className:"name",children:oe.jsx("p",{children:"@ismaeltechs"})}),oe.jsx("div",{className:"cards",children:dm.map((e,t)=>oe.jsx(cm,{inf:e},t))}),oe.jsx("div",{className:"powerby",children:"BY Ismael Rosas"})]})})}const hm=Of.div`
   .container{
     background-color: rgba(0, 0,0, 0.7); 
     width: 100vw;
