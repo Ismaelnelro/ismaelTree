@@ -3,11 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Ismaelnelro.github.io/ismaelTree/",
+  "homepage": "https://ismaelnelro.github.io/ismaelTree/",
   "scripts": {
     "dev": "vite --host",
-    "predeploy": "vite build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
